@@ -1,2 +1,2 @@
 # NeteaseCloudMusicApi
-cloutMusictest
+cloudMusictest
